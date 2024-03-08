@@ -1,0 +1,21 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px; /* Adjust the width as needed */
+    margin: 20px;
+
+
+}
+
+/* Styling for the image */
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+/* Styling for the description */
+.card .description {
+    padding: 15px;}
+
+  
